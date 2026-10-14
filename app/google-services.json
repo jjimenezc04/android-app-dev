@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82907223244",
+    "project_id": "admpracticaandroid",
+    "storage_bucket": "admpracticaandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82907223244:android:ae39b4c38dda8ec6f7de69",
+        "android_client_info": {
+          "package_name": "com.example.practicaandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKFSVZD7QCSZP05JccynOw0nh-aaSe6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
